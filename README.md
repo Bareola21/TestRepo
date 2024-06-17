@@ -1,2 +1,2 @@
 # TestRepo
-A practice For Coursera Class
+This is a practise reporsitory needed for my coursera class.
